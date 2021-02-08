@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Medical Mini-MBA
 
 You can use the [editor on GitHub](https://github.com/medicalminimba/medicalminimba.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
