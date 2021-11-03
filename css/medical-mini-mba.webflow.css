@@ -2363,15 +2363,11 @@ blockquote {
     grid-row-gap: 1rem;
   }
 
-  .absolute-hero.fixed {
-    background-image: url('../images/landing-onepage-website-template-02.jpg');
-    background-position: 50% 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
   .hero-cutted-1 {
-    display: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .hero-cutted-2 {
@@ -2820,6 +2816,10 @@ blockquote {
     margin-bottom: 1rem;
   }
 
+  .font-white.margin-bottom {
+    max-width: 15rem;
+  }
+
   .horizontal {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -2885,6 +2885,17 @@ blockquote {
 
   .profile-description-shift.right-padding {
     padding-right: 0rem;
+  }
+
+  .absolute-hero.fixed {
+    background-image: none;
+  }
+
+  .hero-cutted-1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .grid-programme {
