@@ -2243,6 +2243,7 @@ blockquote {
   }
 
   .section-hero {
+    min-height: 90vh;
     padding: 8rem 3rem 3rem;
     -ms-grid-columns: 1fr 1fr;
     grid-template-columns: 1fr 1fr;
